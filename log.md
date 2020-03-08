@@ -9,4 +9,14 @@ coming back.
 
 **Link(s) to work**
 
-# Null
+### Null
+
+### Day 2: March 8, Sunday
+
+**Today's Progress**: I got to learn about CSS variables and main thing is Applied Visual Design session. Finally got a clear concept of positioning DOMs
+
+**Thoughts** It's really awesome feeling to be in discipline and doing all these course. I will follow JavaScript for life
+
+**Link(s) to work**
+
+### Null
