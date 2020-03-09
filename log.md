@@ -20,3 +20,13 @@ coming back.
 **Link(s) to work**
 
 ### Null
+
+### Day 3: March 9, Monday
+
+**Today's Progress**: Got to learn about Applied VisualDesign Challenges and Applied Accessibility
+
+**Thoughts** I am really working to speed my learning curve and maintain the pace of learning by learning atleast one thing that is new and I am really researching of game development.
+
+**Link(s) to work**
+
+### Null
