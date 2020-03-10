@@ -31,4 +31,12 @@ coming back.
 
 ### Null
 
-asdfasdf
+### Day 4: March 10, Tuesday
+
+**Today's Progress**: Completed Grids and Flexbox and had clear view about the grid layouts and completed first project of FreeCodeCamp FrontEnd Certification
+
+**Thoughts** I am still feeling like I am going slow and steady. I really need to speed up the pace of learning. I got to learn about grids and its power in layout designing
+
+**Link(s) to work**
+https://codepen.io/anil_rai/pen/jOPYgbo
+
