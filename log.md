@@ -40,3 +40,12 @@ coming back.
 **Link(s) to work**
 https://codepen.io/anil_rai/pen/jOPYgbo
 
+### Day 5: March 11, Wednesday
+
+**Today's Progress**: Completed Second Project of FreeCodeCamp and I am planning to see all the Daniel Stiffmen Videos and projects
+
+**Thoughts** I got to see one of the YouTubers progress whom I admire a lot and again got fired up for bringing changes in my life and learning new things.
+
+**Link(s) to work**
+https://codepen.io/anil_rai/pen/RwPQLwv
+
