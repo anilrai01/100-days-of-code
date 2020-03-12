@@ -49,3 +49,14 @@ https://codepen.io/anil_rai/pen/jOPYgbo
 **Link(s) to work**
 https://codepen.io/anil_rai/pen/RwPQLwv
 
+
+### Day 6: March 12, Thursday
+
+**Today's Progress**: Completed Third Project of FreeCodeCamp and Working on Daniel Shiffman's JS course
+
+**Thoughts** I got a call on a new place to join in. Lets see what happens tomorrow. I am again feeling little too slow in progress :")   
+
+## I HATE WORDPRESS :")
+
+**Link(s) to work**
+https://codepen.io/anil_rai/pen/MWwVYZa
