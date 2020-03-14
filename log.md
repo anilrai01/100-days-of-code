@@ -72,3 +72,13 @@ https://codepen.io/anil_rai/pen/MWwVYZa
 **Link(s) to work**
 https://codepen.io/anil_rai/pen/xxGWYvy
 s
+
+
+### Day 8: March 14, Saturday
+
+**Today's Progress**: Hurrah! Finally completed the Responsive web design Course on FreeCodeCamp. Started JavaScript. Today was the weekend day and I invested all my time in learning new things 
+
+**Thoughts** Its already the 8th day and I discovered lot of new things already. I've also started JavaScript course in MDN and w3schoools and freecodecamp I am planning to get this JS certification as well.
+
+**Link(s) to work**
+https://codepen.io/anil_rai/pen/JjdLeEz
