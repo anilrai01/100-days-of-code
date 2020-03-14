@@ -60,3 +60,15 @@ https://codepen.io/anil_rai/pen/RwPQLwv
 
 **Link(s) to work**
 https://codepen.io/anil_rai/pen/MWwVYZa
+
+
+
+### Day 7: March 13, Friday
+
+**Today's Progress**: Completed Fourth Project of FreeCodeCamp and Working on Fifth project I will surely get started into Daniel Shiffman's JS course
+
+**Thoughts** I will now grab a speed and upgrade my learning curve. I am kinda loving C#. I am still hoping to create one huge game project. Haha I forgot to commit my progress last night so I am doing this commit now i.e Saturday Morning :")
+
+**Link(s) to work**
+https://codepen.io/anil_rai/pen/xxGWYvy
+s
