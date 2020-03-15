@@ -82,3 +82,14 @@ s
 
 **Link(s) to work**
 https://codepen.io/anil_rai/pen/JjdLeEz
+
+
+### Day 9: March 15, Sunday
+
+**Today's Progress**: Finally Started my Journey again in the Beautiful world of JS.
+
+**Thoughts** Today one idea came up in my mind abou the planning to start my very own entrepreneur its game dev platform for all the game dev in poor countries like Nepal
+
+**Link(s) to work**
+null
+
