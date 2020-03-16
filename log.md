@@ -93,3 +93,13 @@ https://codepen.io/anil_rai/pen/JjdLeEz
 **Link(s) to work**
 null
 
+
+### Day 10: March 16, Monday
+
+**Today's Progress**: I stuck in one of the challenges in JS Algorithm and DS where I've successfully showed the output but also I am getting error that I am not able to output the correct answer
+
+**Thoughts** Today I am little late and still got not much time to read and practise :')
+
+**Link(s) to work**
+null
+
