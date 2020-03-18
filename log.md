@@ -103,3 +103,22 @@ null
 **Link(s) to work**
 null
 
+
+### Day 11: March 17, Tuesday
+
+**Today's Progress**: I am into the ES6 session where I got to refresh my memories and learn new things. It's really helping me to create a strong base. I got little confused with the Recursion proplem and taking random numbers from any given range. I am still working in this. I got it some how but I am still a litttttle bit confused.
+
+**Thoughts** I really had a great conversation with new developers from the thread of my last nights tweet about the issues I had in one of the coding challenges. It was really amazing to get a chance to share my views with other senior developers
+
+**Link(s) to work**
+null
+
+### Day 12: March 18, Wednesday
+
+**Today's Progress**: Started RegEx in JS and I am kinda loving this approach which is very much helpful in searching and rearranging data in algorithm designing
+
+**Thoughts** I again got to interract with other developers in twitter. Theres high alert all around the world about the CORONA virus which is COVID-19. Here again I didn't get enough time to explore my domain. I am plannig to ask for a provision to work from home at office so I might be able to save some time of going in bus and waiting in long lines and invest in my own research
+
+**Link(s) to work**
+null
+
