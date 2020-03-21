@@ -49,19 +49,16 @@ https://codepen.io/anil_rai/pen/jOPYgbo
 **Link(s) to work**
 https://codepen.io/anil_rai/pen/RwPQLwv
 
-
 ### Day 6: March 12, Thursday
 
 **Today's Progress**: Completed Third Project of FreeCodeCamp and Working on Daniel Shiffman's JS course
 
-**Thoughts** I got a call on a new place to join in. Lets see what happens tomorrow. I am again feeling little too slow in progress :")   
+**Thoughts** I got a call on a new place to join in. Lets see what happens tomorrow. I am again feeling little too slow in progress :")
 
 ## I HATE WORDPRESS :")
 
 **Link(s) to work**
 https://codepen.io/anil_rai/pen/MWwVYZa
-
-
 
 ### Day 7: March 13, Friday
 
@@ -73,16 +70,14 @@ https://codepen.io/anil_rai/pen/MWwVYZa
 https://codepen.io/anil_rai/pen/xxGWYvy
 s
 
-
 ### Day 8: March 14, Saturday
 
-**Today's Progress**: Hurrah! Finally completed the Responsive web design Course on FreeCodeCamp. Started JavaScript. Today was the weekend day and I invested all my time in learning new things 
+**Today's Progress**: Hurrah! Finally completed the Responsive web design Course on FreeCodeCamp. Started JavaScript. Today was the weekend day and I invested all my time in learning new things
 
 **Thoughts** Its already the 8th day and I discovered lot of new things already. I've also started JavaScript course in MDN and w3schoools and freecodecamp I am planning to get this JS certification as well.
 
 **Link(s) to work**
 https://codepen.io/anil_rai/pen/JjdLeEz
-
 
 ### Day 9: March 15, Sunday
 
@@ -93,7 +88,6 @@ https://codepen.io/anil_rai/pen/JjdLeEz
 **Link(s) to work**
 null
 
-
 ### Day 10: March 16, Monday
 
 **Today's Progress**: I stuck in one of the challenges in JS Algorithm and DS where I've successfully showed the output but also I am getting error that I am not able to output the correct answer
@@ -102,7 +96,6 @@ null
 
 **Link(s) to work**
 null
-
 
 ### Day 11: March 17, Tuesday
 
@@ -122,3 +115,11 @@ null
 **Link(s) to work**
 null
 
+### Day 15: March 21, Saturday
+
+**Today's Progress**: Completed basic data structure problems and now working on basic algorithm scripting in js from FreeCodeCamp. Its really interesting and amazing course indeed
+
+**Thoughts** I know I am late at the commit but I haven't stopped my learning. I was only late in pushing my commit. As I was shifting my platform from Linux back to Windows :"( I am not a evil but I was kinda missing the GUI feelings and also I was plannig to start using UNTY so that pulled me back to Windows. And all my push above this was from Linux except first three. I am back to Windows so I though the repo was not in sink and I was screwed but SSH saved me. I still do lack Git knowledge. Its already Day 15 and as for my plan. I am planning to go for React after completing this course along with basic game dev in JS and webGL
+
+**Link(s) to work**
+null
