@@ -123,3 +123,21 @@ null
 
 **Link(s) to work**
 null
+
+### Day 16: March 22, Sunday
+
+**Today's Progress**: I completed the Object-Oriented Programming form JavaScript and got to learn how to prototype chain works in JS and also got to know about Closure and IIFE and lot more. Due to heavy rainfall and powercut, I was unable to update my last nights' tweet
+
+**Thoughts** Everything is fuzzy ,,,..... -\_- due to powercut and heavy rainfall I lost my data so ...
+
+**Link(s) to work**
+null
+
+### Day 17: March 23, Monday
+
+**Today's Progress**: Played around with Canvas and 2d shapes exploration. On the mission to do some physics simulation using canvas shapes
+
+**Thoughts** I am planning to do some c# programming. But still I am not able to clearly visualize my path. I want to learn one JS framework and also game development. SO I am little confused about how to take those in parallel.
+
+**Link(s) to work**
+https://anilrai01.github.io/canvas-fun/hoverSimulation-re/
