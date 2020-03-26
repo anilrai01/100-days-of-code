@@ -141,3 +141,21 @@ null
 
 **Link(s) to work**
 https://anilrai01.github.io/canvas-fun/hoverSimulation-re/
+
+### Day 18: March 24, Tuesday
+
+**Today's Progress**: Today I got to learn all the potentials of functional programming in JavaScript. Also learned how we can optimize our code a little. Also completed functional programming section of JavaScript Algorithm and DataSctructure. So currently working in intermediatte level of Algorithm Scripting
+
+**Thoughts** I am planning to dive into the world of game development now. This time I am trying new approach to learn things. All these years I tried to grab all the necesary skillset that I feel enough and then only I started doing some projects. But this time I am directly making my hands dirty and then I will search for essential cure.
+
+### Day 19: March 25, Wednesday
+
+**Today's Progress**: Today I got to revise my another canvas art ie. gravity simulation. It is really cool how we get to code all the physics simulation but although it is cool and I really wanna make one of my own game engine from scratch, that would be too far. I completed few of the problems of Algorithm Scripting. May be a quater of all.
+
+**Thoughts** I started using blender and also installed unity3d in my machine. One thing that I am lagging is my machine's potential. It doesn't have a dedicated GPU which will show some laggy graphics if we try to render 3D models. :"( I am so disappointed, but not discouraged :) I will somehow manage the work and limit my 3D modeling till I get my new PC until then I will work on 2D games and sprite designs. Also I need to work on React and Node and Express. Maaan I got my hands so full
+
+### Day 20: March 26, Thursday
+
+**Today's Progress**: I am near to complete all the Data Structure and algorithm problems in JS form FreeCodeCamp. Solving these kind of problem is soo much fun. I really got to learn a lot of things. Today finally after 20 days of my coding adventure I came to realize I am able to scratch the surface now. :) I am really happy from this progress and I promise I won't let this curve go down. ;)
+
+**Thoughts** It is a time of crisis and everyone is in their own home in quarantine. I still got a looooong list of new things to explore and master. Though "master" is a whole new thing. I just wanna be very flexible and fluent to do cool stuffs in those technologies
