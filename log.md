@@ -159,3 +159,9 @@ https://anilrai01.github.io/canvas-fun/hoverSimulation-re/
 **Today's Progress**: I am near to complete all the Data Structure and algorithm problems in JS form FreeCodeCamp. Solving these kind of problem is soo much fun. I really got to learn a lot of things. Today finally after 20 days of my coding adventure I came to realize I am able to scratch the surface now. :) I am really happy from this progress and I promise I won't let this curve go down. ;)
 
 **Thoughts** It is a time of crisis and everyone is in their own home in quarantine. I still got a looooong list of new things to explore and master. Though "master" is a whole new thing. I just wanna be very flexible and fluent to do cool stuffs in those technologies
+
+### Day 21: March 27, Friday
+
+**Today's Progress**: Finally completed all the data structure challenges from FreeCodeCamp JavaScript session. Now by the end of tomorrow evening I am planning to get that second certificate from FreeCodeCamp and also start on FrontEnd libraries session where I'll get to learn about React. I am so excited about this section.
+
+**Thoughts** I am really upset today as I was really excited to learn Unity and Blender, today I downloaded one demo project from Unity store and tried to load in my machine and learn something by tweaking the settings, but sadly my pc was not able to handle all the heavy graphical pressure. This hurts more than a break up. Here I was so excited to start my world of game development from today. I am temporarily postponing my Blender and Unity tranining till I get my new pc sooner or later
