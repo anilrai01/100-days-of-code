@@ -165,3 +165,15 @@ https://anilrai01.github.io/canvas-fun/hoverSimulation-re/
 **Today's Progress**: Finally completed all the data structure challenges from FreeCodeCamp JavaScript session. Now by the end of tomorrow evening I am planning to get that second certificate from FreeCodeCamp and also start on FrontEnd libraries session where I'll get to learn about React. I am so excited about this section.
 
 **Thoughts** I am really upset today as I was really excited to learn Unity and Blender, today I downloaded one demo project from Unity store and tried to load in my machine and learn something by tweaking the settings, but sadly my pc was not able to handle all the heavy graphical pressure. This hurts more than a break up. Here I was so excited to start my world of game development from today. I am temporarily postponing my Blender and Unity tranining till I get my new pc sooner or later
+
+### Day 22: March 28, Saturday
+
+**Today's Progress**: Completed 2 final projects of javascript in total from freecode camp.
+
+**Thoughts** I was not feeling well so I decided to take a short break last night. Although I did talk with my buddies from college. I got some energy back after talking with them and got to do some brain storming and practise. Yes for some time being I am planning to drop the plan of learning Unity and Blender. I am planning to focus more on C++ and Nature of Code JS Daniel Shiffmen
+
+### Day 23: March 29, Sunday
+
+**Today's Progress**: Completed another two projects from freecode camp.
+
+**Thoughts** Now only the final one is left. My greatest achievement in this course is the Roman Number Calculator, Ceaser Cipher and telephone number validator. Although there are lots of exciting and amazing problems. I never quit and did all those smoothly. I really learned the importance of planning before coding ;)
