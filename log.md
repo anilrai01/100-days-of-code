@@ -177,3 +177,10 @@ https://anilrai01.github.io/canvas-fun/hoverSimulation-re/
 **Today's Progress**: Completed another two projects from freecode camp.
 
 **Thoughts** Now only the final one is left. My greatest achievement in this course is the Roman Number Calculator, Ceaser Cipher and telephone number validator. Although there are lots of exciting and amazing problems. I never quit and did all those smoothly. I really learned the importance of planning before coding ;)
+
+
+### Day 24: March 30, Monday
+
+**Today's Progress**: Finally Completed my JS Algorithm and DataStructure course. I am so happy right now. It's 2:12 of mid night and I just solved 2 of algorithm problems. I again did my final challenge of my coding challenge and I am now much satisfied. I was not so much satisfied at the time I submited the code, but now I am super excited and super satisfied.
+
+**Thoughts** Hahahahah I again installed Unity3d, I searched for GameEngines for hours today, didn't find any suitable engine. So as per today's context, there are very few peopel who start from scratch so I also planned to start with the game engine unity in direct. I won't change my mind as now. I will make sure to solve atleast 1 to 2 DataStructure problem from HackerRank or any other DataStrucure and algorithm course from the web; :) Overall very happy day and very lucky day, Now I will start FrontEnd Libraries course from FreeCodeCamp and Further DataStructure and algorithm problem from tutorials and online site. Also I will keep on looking back to the challenges that I solved here every now and then. These algoithms are the wonderful memory of my life ;)
